@@ -333,5 +333,5 @@ body {
     border-top: 1px solid var(--border-color);
     color: var(--text-muted);
     font-size: 0.85rem;
-    color-background: red;
+    background-color: red;
 }
